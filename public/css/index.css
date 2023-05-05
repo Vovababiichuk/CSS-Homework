@@ -2,11 +2,6 @@
 
 :root {
    --bg-color: white;
-
-   --style-text: {
-      color: white;
-      padding: 5px;
-   }
 }
 
 body {
